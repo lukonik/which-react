@@ -6,7 +6,9 @@ function ApiItemVersion({ item }: { item: ApiItemModel }) {
     modeClass = "bg-green-500 text-white font-bold rounded-md px-2 py-1";
   }
   return (
-    <span className={`text-sm font-medium ${modeClass}`}>v{item.version}</span>
+    <span className={`text-sm font-medium ml-auto ${modeClass}`}>
+      v{item.version}
+    </span>
   );
 }
 
