@@ -1,6 +1,7 @@
 [
   {
     "name": "useEffectEvent",
-    "version": "18"
+    "version": "19.2.0",
+    "link": "https://react.dev/reference/react/useEffectEvent"
   }
 ]

@@ -6,4 +6,4 @@
 
 Which React website lets you look up the release version of a specific React feature.
 
-🔗 **[Visit the Website](https://which-react.vercel.app)**
+🔗 **[Visit the Website](lukonik.github.io/which-react)**
