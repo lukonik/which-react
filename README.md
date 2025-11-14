@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="src/assets/logo.png" alt="Which React Logo" width="200"/>
+  <img src="src/assets/logo.png" alt="CanIUseReact Logo" width="200"/>
 </p>
 
-# Which React
+# CanIUseReact
 
-Which React website lets you look up the release version of a specific React feature.
+CanIUseReact website lets you look up the release version of a specific React feature.
 
-🔗 **[Visit the Website](https://lukonik.github.io/which-react)**
+🔗 **[Visit the Website](https://lukonik.github.io/caniusereact)**

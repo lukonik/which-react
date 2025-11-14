@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lukonik.github.io/which-react/sitemap.xml
+Sitemap: https://lukonik.github.io/caniusereact/sitemap.xml
