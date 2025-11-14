@@ -53,5 +53,10 @@
     "name": "useDebugValue",
     "version": "16.8.0",
     "link": "https://react.dev/reference/react/useDebugValue"
+  },
+  {
+    "name": "use",
+    "version": "19.0.0",
+    "link": "https://react.dev/reference/react/use"
   }
 ]
